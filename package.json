@@ -6,6 +6,6 @@
     "private": true,
     "license": "UNLICENSED",
     "scripts": {
-      "start": "(cd server && npm start) & "
+      "start": "cd server && npm start"
     }
 }
