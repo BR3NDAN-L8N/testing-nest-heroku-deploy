@@ -1,0 +1,11 @@
+{
+    "name": "nest-on-heroku",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "private": true,
+    "license": "UNLICENSED",
+    "scripts": {
+      "start": "(cd server && npm start) & "
+    }
+}
